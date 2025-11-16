@@ -21,6 +21,7 @@ cd real-time-systems-project
 
 ## Авторы и участники- Столецкий Данил: dev
 
-## Контактная информацияПри возникновении вопросов или предложений обращайтесь по адресу:
+## Контактная информация
+При возникновении вопросов или предложений обращайтесь по адресу:
 - email: testtesttest@example.ru-
 - issues on GitHub: [github.com/yourusername/real-time-systems-project/issues](https://github.com/doxatlante/real-time-systems-project)
